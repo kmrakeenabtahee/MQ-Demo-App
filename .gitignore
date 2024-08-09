@@ -28,3 +28,4 @@ doc/api/
 
 # Ignore Firebase configuration
 mqu_app/lib/firebase_options.dart
+mqu_app/firebase.json
